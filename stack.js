@@ -1,6 +1,6 @@
 //
 // to be completed
-// was multiple0nBrowser.js
+// zeeAlso multiple0nBrowser.js
 //
 
 class Stack {
@@ -9,7 +9,7 @@ class Stack {
 
 (function verify() {// AMD
   if (typeof define === 'function' && define.amd) {
-    define(function () {// zeeAlso code24 ch10 MasteringJavaScriptObjecTOrientedProgramming
+    define(function () {
       return Stack
       console.log('onAMD')
     })
